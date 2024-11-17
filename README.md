@@ -29,7 +29,7 @@
 ## Usage
 - Run transcriptions.ipynb to generate transcriptions.csv
 - create a folder named Datasets. Store the csv file and the audio (mp3) files in that folder.
-![Alt text](path/to/image)
+![Alt text](SandalSage/WhatsApp Image 2024-11-17 at 22.04.38.jpeg)
 - create a copy of transcriptions.csv as meta_data.csv
 - Fine tune the model by running finetuning.ipynb
 
