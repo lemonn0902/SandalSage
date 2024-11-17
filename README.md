@@ -17,7 +17,7 @@
    
  
  ```
- https://github.com/lemonn0902/SandalSage.git
+ https://github.com/suzy2521alien/SandalSage.git
  ```
    
    
