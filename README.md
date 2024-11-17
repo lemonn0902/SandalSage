@@ -15,9 +15,10 @@
 ## Installation
 1.⁠ ⁠Clone the repo:
    
-   ⁠bash
-  ```
- https://github.com/lemonn0902/SandalSage.git```
+ 
+ ```
+ https://github.com/lemonn0902/SandalSage.git
+ ```
    
    
     ⁠
