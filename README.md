@@ -56,9 +56,11 @@ jupyter nbconvert --to notebook --execute finetuning.ipynb
 
 ![image](https://github.com/user-attachments/assets/719a389d-229a-4c2f-a7e2-10acf2e0f856)
 
-⁠```
+
+```
 streamlit run code_text_src.py
 ```
+
 
 
 - Project Structure:
