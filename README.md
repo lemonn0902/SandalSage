@@ -1,4 +1,4 @@
-SandalSage 
+## SandalSage 
 ## Table of Contents
 - [About](#about)
 - [Installation](#installation)
@@ -14,11 +14,11 @@ SandalSage
 
 ## Installation
 1.⁠ ⁠Clone the repo:
-   ⁠ bash
+   ⁠bash
    https://github.com/lemonn0902/SandalSage.git
     ⁠
 2.⁠ ⁠Navigate to the project directory:
-   ⁠ bash
+   ⁠bash
    cd SandalSage
     ⁠
 3.⁠ ⁠Install dependencies:
@@ -38,10 +38,13 @@ SandalSage
 jupyter nbconvert --to notebook --execute finetuning.ipynb
  ⁠
 •⁠  ⁠download the fine tuned model and unzip it in local machine.
-•⁠  ⁠run the fine tuned model using streamlit run code_text_src.py and create a file structure like the picture ![image](https://github.com/user-attachments/assets/719a389d-229a-4c2f-a7e2-10acf2e0f856)
- using
+•⁠  ⁠run the fine tuned model using streamlit run code_text_src.py and create a file structure like the picture below using:
+![image](https://github.com/user-attachments/assets/719a389d-229a-4c2f-a7e2-10acf2e0f856)
+
 ⁠ bash
 streamlit run code_text_src.py
+
+
 Project Structure:
 ![image](https://github.com/user-attachments/assets/d350ddb0-d987-4a00-a2d4-b082ccee3428)
 
