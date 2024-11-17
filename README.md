@@ -23,13 +23,15 @@
    
     ⁠
 2.⁠ ⁠Navigate to the project directory:
-   ⁠bash
+   ```
    cd SandalSage
+  ```
    
     ⁠
 3.⁠ ⁠Install dependencies:
-   ⁠bash
+   ⁠```
    npm install
+   ```
 
    
 
@@ -41,16 +43,18 @@
 - Fine tune the model by running finetuning.ipynb
 
 
-bash
+```
 jupyter nbconvert --to notebook --execute finetuning.ipynb
+```
  ⁠
 -  ⁠download the fine tuned model and unzip it in local machine.
 -  ⁠run the fine tuned model using streamlit run code_text_src.py and create a file structure like the picture below using:
 
 - ![image](https://github.com/user-attachments/assets/719a389d-229a-4c2f-a7e2-10acf2e0f856)
 
-⁠ bash
+⁠```
 streamlit run code_text_src.py
+```
 
 
 - Project Structure:
