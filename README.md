@@ -15,7 +15,7 @@
 ## Installation
 1. Clone the repo:
    bash
-   https://github.com/lemonn0902/SandalSage.git
+   https://github.com/suzy2521alien/SandalSage
    
 2. Navigate to the project directory:
    bash
@@ -23,7 +23,7 @@
    
 3. Install dependencies:
    bash
-   npm install
+   pip install requirements.txt
    
 
 ## Usage
@@ -50,5 +50,7 @@ streamlit run code_text_src.py
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Your Name - [eshithachowdary.nettem@gmail.com](mailto:eshithachowdary.nettem@gmail.com)
+Team members mail-ids - [eshithachowdary.nettem@gmail.com](mailto:eshithachowdary.nettem@gmail.com)
+ [eshithachowdary.nettem@gmail.com](mailto:eshithachowdary.nettem@gmail.com)
+ [eshithachowdary.nettem@gmail.com](mailto:eshithachowdary.nettem@gmail.com)
 Project Link: [https://github.com/suzy2521alien/SandalSage](https://github.com/suzy2521alien/SandalSage)
