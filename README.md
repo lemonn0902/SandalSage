@@ -26,13 +26,18 @@
    npm install
    ```
 
-### 6. **Usage**
-- Explain how to run and use the project, including examples and code snippets if necessary.
-```markdown
 ## Usage
-To run the project, use the following command:
+- Run transcriptions.ipynb to generate transcriptions.csv
+- create a folder named Datasets. Store the csv file and the audio (mp3) files in that folder.
+![Alt text](path/to/image)
+- create a copy of transcriptions.csv as meta_data.csv
+- Fine tune the model by running finetuning.ipynb
+
 ```bash
-npm start
+jupyter nbconvert --to notebook --execute finetuning.ipynb
+```
+- download the fine tuned model and unzip it in local machine.
+- run the fine tuned model using streamlit run code_text_src.py
 
 
 ## License
