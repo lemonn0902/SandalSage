@@ -47,5 +47,5 @@ streamlit run code_text_src.py
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-Project Link: [https://github.com/username/project-name](https://github.com/username/project-name)
+Your Name - [eshithachowdary.nettem@gmail.com](mailto:eshithachowdary.nettem@gmail.com)
+Project Link: [https://github.com/suzy2521alien/SandalSage](https://github.com/suzy2521alien/SandalSage)
