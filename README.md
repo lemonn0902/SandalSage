@@ -29,7 +29,8 @@
    
     ⁠
 3.⁠ ⁠Install dependencies:
-   ⁠```
+
+   ```
    npm install
    ```
 
@@ -43,9 +44,12 @@
 - Fine tune the model by running finetuning.ipynb
 
 
+
+
 ```
 jupyter nbconvert --to notebook --execute finetuning.ipynb
 ```
+
  ⁠
 -  ⁠download the fine tuned model and unzip it in local machine.
 -  ⁠run the fine tuned model using streamlit run code_text_src.py and create a file structure like the picture below using:
