@@ -1,0 +1,13 @@
+streamlit
+streamlit-components
+audio-recorder-streamlit
+pandas
+torch
+transformers
+librosa
+langchain
+langchain-community
+faiss-cpu
+pydub
+sqlite3
+google-generativeai
