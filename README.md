@@ -50,7 +50,7 @@ streamlit run code_text_src.py
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Team members mail-ids - [eshithachowdary.nettem@gmail.com](mailto:eshithachowdary.nettem@gmail.com)
- [eshithachowdary.nettem@gmail.com](mailto:eshithachowdary.nettem@gmail.com)
- [eshithachowdary.nettem@gmail.com](mailto:eshithachowdary.nettem@gmail.com)
+Team members mail-ids - [Eshithachowdary](mailto:eshithachowdary.cs23@rvce.edu.in)
+      [Shreya](mailto:shreyas.cy23@rvce.edu.in)
+      [D Rakshitha](mailto:drakshitha.cs23@rvce.edu.in)
 Project Link: [https://github.com/suzy2521alien/SandalSage](https://github.com/suzy2521alien/SandalSage)
