@@ -64,7 +64,8 @@ streamlit run code_text_src.py
 
 
 - Project Structure:
- ![image](https://github.com/user-attachments/assets/d350ddb0-d987-4a00-a2d4-b082ccee3428)
+  
+![image](https://github.com/user-attachments/assets/d350ddb0-d987-4a00-a2d4-b082ccee3428)
 
 
 
