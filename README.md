@@ -1,4 +1,4 @@
-"# SandalSage" 
+"SandalSage" 
 ## Table of Contents
 - [About](#about)
 - [Installation](#installation)
